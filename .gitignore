@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder (Java)/*
+!/Chuck Norris Cipher Encoder (Java)/task/
+/Chuck Norris Cipher Encoder (Java)/task/*
+!/Chuck Norris Cipher Encoder (Java)/task/src
+
+# Project exclude paths
+/Topics/Getters and setters/Creating a class for a book with private properties/out/
+/Topics/Getters and setters/Creating a class for a book with private properties/out/production/classes/
+/Topics/NullPointerException/Avoid NPE/out/
+/Topics/NullPointerException/Avoid NPE/out/production/classes/
+/Topics/NullPointerException/Return empty string when argument is null/out/
+/Topics/NullPointerException/Return empty string when argument is null/out/production/classes/
